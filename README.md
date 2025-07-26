@@ -28,6 +28,7 @@ Styling: Custom CSS + Google Fonts
 CORS Enabled: To allow frontend-backend communication
 
 🔁 How It Works
+
 A random array is generated.
 
 User selects a sorting algorithm.
