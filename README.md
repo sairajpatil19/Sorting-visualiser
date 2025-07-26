@@ -38,10 +38,3 @@ Backend returns a list of "steps" in sorting.
 
 Frontend animates each step as vertical bars.
 
-
-📬 Contributing
-Want to add more algorithms like Quick Sort or Heap Sort?
-Feel free to fork the repo and open a pull request!
-
-📜 License
-MIT License — feel free to use and modify.
