@@ -33,26 +33,6 @@ Copy
 Edit
 ├── app.py           # Flask backend handling sorting logic
 ├── index.html       # Frontend UI
-├── README.md        # Project documentation (you are here!)
-▶️ How to Run the Project
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sorting-visualizer.git
-cd sorting-visualizer
-2. Set Up and Run Backend
-Make sure Python and pip are installed.
-
-bash
-Copy
-Edit
-pip install flask flask-cors
-python app.py
-The Flask server will run at: http://127.0.0.1:5000
-
-3. Open Frontend
-Open index.html in any web browser.
 
 🔁 How It Works
 A random array is generated.
@@ -65,17 +45,6 @@ Backend returns a list of "steps" in sorting.
 
 Frontend animates each step as vertical bars.
 
-🧠 Educational Use Case
-This project is ideal for:
-
-Learning and teaching sorting algorithms
-
-Visual learners
-
-Coding portfolios
-
-📸 Screenshot
-(Add a screenshot of the site here for better appeal on GitHub)
 
 📬 Contributing
 Want to add more algorithms like Quick Sort or Heap Sort?
