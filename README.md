@@ -27,13 +27,6 @@ Styling: Custom CSS + Google Fonts
 
 CORS Enabled: To allow frontend-backend communication
 
-📂 File Structure
-bash
-Copy
-Edit
-├── app.py           # Flask backend handling sorting logic
-├── index.html       # Frontend UI
-
 🔁 How It Works
 A random array is generated.
 
